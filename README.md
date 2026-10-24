@@ -1,5 +1,4 @@
 # PRODIGY_CS_01
-# PRODIGY_CS_01
 # Caesar Cipher in Python 🔐
 
 ## 📌 Project Overview
